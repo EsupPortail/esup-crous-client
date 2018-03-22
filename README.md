@@ -1,7 +1,7 @@
-﻿ESUP-CNOUS-CLIENT
+ESUP-CNOUS-CLIENT
 =================
 
-voir https://www.esup-portail.org/wiki/display/SGC/FAQ#FAQ-Peut-onencoderl'applicationCROUSquandonutilisedescartesvierges
+voir https://www.esup-portail.org/wiki/display/SGC/FAQ#FAQ-Peut-onencoderl'applicationCROUSquandonutilisedescartesvierges?
 
 L'application esup-cnous-client permet la lecture et l'encodage del'application CNOUS sur une carte préalablement configurée
 
